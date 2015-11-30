@@ -23,7 +23,7 @@ Welcome to the Cambridge - Berkeley Computational Geomechanics (CB-Geo) group. W
 
 ## Resources
 
-* [![asana](../images/cb-geo/asana.png) Asana project management](https://app.asana.com/):
+* [![asana](../images/cb-geo/asana.png) Asana project management](https://asana.com/):
 
 * [![gitlab](../images/cb-geo/gitlab.png) GitLab](https://git.cb-geo.com):
 
@@ -48,7 +48,7 @@ We do have some policies, this is not an exhaustive list, but  the primary motiv
 
 * From time-to-time we may ask you to write documentations / short reports to document a methodology or your approach. This improves reproducibility and in general help other users like you. Documentation is a nice habit. Who knows you might not understand what you did / wrote or remember how you did it 6 months ago! Document it!
 
-* [Asana](https://app.asana.com) is our project management platform, you can track what projects are live and kicking. If you think there is something that needs developing create a task and assign it to someone or be awesome assign it to yourself or contribute to a task! If you are assigned a task, discuss the deadline with your assigner and try to deliver it on time. No one likes it when things drag on! Don't you like to know how a project is going, why not tell us about your progress every Friday, on the tasks assigned to you.
+* [Asana](https://asana.com) is our project management platform, you can track what projects are live and kicking. If you think there is something that needs developing create a task and assign it to someone or be awesome assign it to yourself or contribute to a task! If you are assigned a task, discuss the deadline with your assigner and try to deliver it on time. No one likes it when things drag on! Don't you like to know how a project is going, why not tell us about your progress every Friday, on the tasks assigned to you.
 
 * Remember those frustrating times, when you thought if only I had the input files / code that the ex-PhD student used to validate your code or start your research? We don't like that to happen either. We expected you to share your input files, submission scripts and other files required to successfully run the simulations. These files will be stored on CB-Geo Git infrastructure internally and will be shared with other members of the group working on the same area / software. It is important to keep the knowledge within the team to avoid any repetitive work as well as to honour the contributions of the members. All research files shared on the central Git repository will be licensed under [Creative Commons - Attribution Share Alike 4.0](http://creativecommons.org/licenses/by-sa/4.0/) or a similar license. The researcher will own the copyright of their work. Don't worry, we won't share it without asking you or your supervisor.
 
