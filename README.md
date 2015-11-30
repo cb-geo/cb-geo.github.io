@@ -3,7 +3,17 @@
 
 Based on [**So Simple Theme**](http://mmistakes.github.io/minimal-mistakes/)
 
+## Pre-requisites
+
+* ruby > 2.0
+
+* ruby-devel
+
+* rubygem-bundler
+
 ## Getting Started
+
+* bundle update
 
 * bundle exec jekyll build --incremental
 
