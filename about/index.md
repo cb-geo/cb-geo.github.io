@@ -11,7 +11,7 @@ image:
 
 ## Welcome
 
-Welcome to the Cambridge - Berkeley Computational Geomechanics (CB-Geo) group. We encourage you to make use of our infrastructure and tools, and also contribute towards the development of our research group. 
+Welcome to the Cambridge - Berkeley Computational Geomechanics (CB-Geo) group. We encourage you to make use of our infrastructure and tools, and also contribute towards the development of our research group.
 
 ## People
 
@@ -23,11 +23,17 @@ Welcome to the Cambridge - Berkeley Computational Geomechanics (CB-Geo) group. W
 
 ## Resources
 
-* [![asana](../images/cb-geo/asana.png) Asana project management](https://asana.com/):
+* [![appear.in](../images/cb-geo/appear.in.png) appear.in](https://appear.in/cb-geo): Video conferencing
 
-* [![gitlab](../images/cb-geo/gitlab.png) GitLab](https://git.cb-geo.com):
+* [![asana](../images/cb-geo/asana.png) Asana](https://asana.com/):  Project management
 
-* [![slack](../images/cb-geo/slack.png) Slack](https://cb-geo.slack.com/):
+* [![github](../images/cb-geo/github.png) GitHub](https://github.com/cb-geo): Git code hosting (mirror of GitLab)
+
+* [![gitlab](../images/cb-geo/gitlab.png) GitLab](https://git.cb-geo.com): Git code hosting and Continous Integration system
+
+* [![slack](../images/cb-geo/slack.png) Slack](https://cb-geo.slack.com/): Team communication
+
+* [![vagrant](../images/cb-geo/vagrant.png) Vagrant](https://www.vagrantup.com/): Virtual development environment deployment
 
 ## Policies
 We do have some policies, this is not an exhaustive list, but  the primary motivation is to promote open research and create a friendly team of researchers.
