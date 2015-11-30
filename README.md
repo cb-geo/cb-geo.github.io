@@ -11,6 +11,8 @@ Based on [**So Simple Theme**](http://mmistakes.github.io/minimal-mistakes/)
 
 * rubygem-bundler
 
+* zlib zlib-devel zlib-static
+
 ## Getting Started
 
 * bundle update
