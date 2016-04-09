@@ -26,10 +26,3 @@ excerpt: "Cambridge-Berkeley Computational Geomechanics Research"
 
 * Thermo-Hydro-Mechanical coupling
 
-### Software
-
-* Abaqus
-
-* COMSOL
-
-

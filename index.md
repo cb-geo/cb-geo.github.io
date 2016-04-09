@@ -9,14 +9,13 @@ image:
 {:toc}
 
 
-## Welcome
+# Welcome
 
 Welcome to the Cambridge - Berkeley Computational Geomechanics (CB-Geo) group. We encourage you to make use of our infrastructure and tools, and also contribute towards the development of geomechanics.
 
-## Team
+# Team
 
-
-
+### Team leads
 <!-- Team filled from _data/team.yaml-->
    <div class="team">
     {% for member in site.data.core-team %}
