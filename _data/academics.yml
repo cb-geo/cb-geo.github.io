@@ -1,0 +1,18 @@
+# Academics
+- name: Giovanna Biscontin
+  position: Lecturer
+  uni: Cambridge
+  image: biscontin.jpg
+  email: gb479@cam.ac.uk
+
+- name: John Bray
+  position: Professor
+  uni: Berkeley
+  image: bray.jpg
+  email: bray@berkeley.edu
+
+- name: Nicholas Sitar
+  position: Professor
+  uni: Berkeley
+  image: sitar.jpg
+  email: sitar@berkeley.edu

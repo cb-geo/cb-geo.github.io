@@ -1,11 +1,29 @@
 ---
 layout: page
-#title: CB-Geo Policies
-excerpt: "CB-Geo policies"
+title: Getting started
+excerpt: "CB-Geo Getting started"
 ---
 
+## Resources
+
+The following resources are available within the CB-Geo group.
+
+* [![appear.in]({{site.url}}/images/cb-geo/resources/appear.in.png) appear.in](https://appear.in/cb-geo): Video conferencing
+
+* [![asana]({{site.url}}/images/cb-geo/resources/asana.png) Asana](https://asana.com/):  Project management
+
+* [![github]({{site.url}}/images/cb-geo/resources/github.png) GitHub](https://github.com/cb-geo): Git code hosting (mirror of GitLab)
+
+* [![gitlab]({{site.url}}/images/cb-geo/resources/gitlab.png) GitLab](https://git.cb-geo.com): Git code hosting and Continous Integration system
+
+* [![slack]({{site.url}}/images/cb-geo/resources/slack.png) Slack](https://cb-geo.slack.com/): Team communication
+
+* [![vagrant]({{site.url}}/images/cb-geo/resources/vagrant.png) Vagrant](https://www.vagrantup.com/): Virtual development environment deployment
+
+
 ## Policies
-We do have some policies, this is not an exhaustive list, but  the primary motivation is to promote open research and create a friendly team of researchers.
+
+We do have some policies, this is not an exhaustive list, but  the primary motivation is to promote *open research* and create a friendly team of researchers.
 
 * To get you started, we would like you to do some online tutorials to familiarise yourself with the tools and software that we use in our research group. These tools / languages are really awesome and make your research life easier and blazing fast.
 

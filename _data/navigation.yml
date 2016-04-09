@@ -2,15 +2,18 @@
 
 - title: About
   url: /
-  
-- title: Articles
-  url: /articles/
+ 
+- title: Research
+  url: /research/
+ 
+#- title: Articles
+#  url: /articles/
 
 #- title: Tags
 #  url: /tags/
 
-- title: Policies
-  url: /policies/
+- title: Getting started
+  url: /getting-started/
 
 - title: Docs
   url: https://www.gitbook.com/@cb-geo

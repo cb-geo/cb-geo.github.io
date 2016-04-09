@@ -15,9 +15,11 @@ Welcome to the Cambridge - Berkeley Computational Geomechanics (CB-Geo) group. W
 
 ## Team
 
+
+
 <!-- Team filled from _data/team.yaml-->
    <div class="team">
-    {% for member in site.data.team %}
+    {% for member in site.data.core-team %}
        <div class="user">
          <div class="userimg" style="background-image:url('{{ site.baseurl }}/images/cb-geo/team/{{ member.image }}')">
          </div>
@@ -28,6 +30,71 @@ Welcome to the Cambridge - Berkeley Computational Geomechanics (CB-Geo) group. W
     {% endfor %}
    </div>
 <!-- End team -->
+
+### Academics
+
+<!-- Team filled from _data/team.yaml-->
+   <div class="team">
+    {% for member in site.data.academics %}
+       <div class="user">
+         <div class="userimg" style="background-image:url('{{ site.baseurl }}/images/cb-geo/team/{{ member.image }}')">
+         </div>
+         <h4>{{ member.name }}</h4>	
+         {{ member.position }}, {{member.uni }}<br/>
+	 <a href="mailto:{{ member.email }}">{{ member.email }}</a>
+       </div>
+    {% endfor %}
+   </div>
+<!-- End team -->
+
+### Post docs
+
+<!-- Team filled from _data/team.yaml-->
+   <div class="team">
+    {% for member in site.data.postdocs %}
+       <div class="user">
+         <div class="userimg" style="background-image:url('{{ site.baseurl }}/images/cb-geo/team/{{ member.image }}')">
+         </div>
+         <h4>{{ member.name }}</h4>	
+         {{ member.position }}, {{member.uni }}<br/>
+	 <a href="mailto:{{ member.email }}">{{ member.email }}</a>
+       </div>
+    {% endfor %}
+   </div>
+<!-- End team -->
+
+### Students
+
+<!-- Team filled from _data/team.yaml-->
+   <div class="team">
+    {% for member in site.data.students %}
+       <div class="user">
+         <div class="userimg" style="background-image:url('{{ site.baseurl }}/images/cb-geo/team/{{ member.image }}')">
+         </div>
+         <h4>{{ member.name }}</h4>	
+         {{ member.position }}, {{member.uni }}<br/>
+	 <a href="mailto:{{ member.email }}">{{ member.email }}</a>
+       </div>
+    {% endfor %}
+   </div>
+<!-- End team -->
+
+### Visitors
+
+<!-- Team filled from _data/team.yaml-->
+   <div class="team">
+    {% for member in site.data.visitors %}
+       <div class="user">
+         <div class="userimg" style="background-image:url('{{ site.baseurl }}/images/cb-geo/team/{{ member.image }}')">
+         </div>
+         <h4>{{ member.name }}</h4>	
+         {{ member.position }}, {{member.uni }}<br/>
+	 <a href="mailto:{{ member.email }}">{{ member.email }}</a>
+       </div>
+    {% endfor %}
+   </div>
+<!-- End team -->
+
 
 ### Past team members
 <!-- Team filled from _data/team.yaml-->
@@ -43,19 +110,3 @@ Welcome to the Cambridge - Berkeley Computational Geomechanics (CB-Geo) group. W
     {% endfor %}
    </div>
 <!-- End team -->
-
-
-## Resources
-
-* [![appear.in](images/cb-geo/appear.in.png) appear.in](https://appear.in/cb-geo): Video conferencing
-
-* [![asana](images/cb-geo/asana.png) Asana](https://asana.com/):  Project management
-
-* [![github](images/cb-geo/github.png) GitHub](https://github.com/cb-geo): Git code hosting (mirror of GitLab)
-
-* [![gitlab](images/cb-geo/gitlab.png) GitLab](https://git.cb-geo.com): Git code hosting and Continous Integration system
-
-* [![slack](images/cb-geo/slack.png) Slack](https://cb-geo.slack.com/): Team communication
-
-* [![vagrant](images/cb-geo/vagrant.png) Vagrant](https://www.vagrantup.com/): Virtual development environment deployment
-
