@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CB-Geo Policies
+#title: CB-Geo Policies
 excerpt: "CB-Geo policies"
 ---
 
