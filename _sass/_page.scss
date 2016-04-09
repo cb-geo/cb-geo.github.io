@@ -212,7 +212,7 @@ span + .entry-title {
 #home,
 #page {
 	.entry-wrapper {
-		max-width: em(760);
+		max-width: em(1080);
 	}
 	.entry-title {
 		text-align: center;
@@ -313,6 +313,7 @@ span + .entry-title {
 /* Team carousel on the front page */
 .team {
   width: 100%;
+  text-align: center;
 }
 
 /* Individual team member */
