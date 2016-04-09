@@ -1,16 +1,16 @@
 # Site navigation links
 
 - title: About
-  url: /about/
-
+  url: /
+  
 - title: Articles
   url: /articles/
 
 - title: Tags
   url: /tags/
 
-- title: CB-Geo
-  url: http://cb-geo.com
+- title: Policies
+  url: /policies/
 
 - title: Search
   url: /search/

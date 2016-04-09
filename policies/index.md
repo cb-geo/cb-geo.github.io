@@ -1,39 +1,8 @@
 ---
 layout: page
-title: Cambridge-Berkeley Geomechanics
-excerpt: "Cambridge-Berkeley Computational Geomechanics Research"
-image:
-  feature: cb-geo/banner.png
+title: CB-Geo Policies
+excerpt: "CB-Geo policies"
 ---
-* Table of Contents
-{:toc}
-
-
-## Welcome
-
-Welcome to the Cambridge - Berkeley Computational Geomechanics (CB-Geo) group. We encourage you to make use of our infrastructure and tools, and also contribute towards the development of our research group.
-
-## People
-
-* Kenichi Soga, Professor
-
-* Krishna Kumar, Research Associate
-
-* Loizos Pelecanos, Research Associate
-
-## Resources
-
-* [![appear.in](../images/cb-geo/appear.in.png) appear.in](https://appear.in/cb-geo): Video conferencing
-
-* [![asana](../images/cb-geo/asana.png) Asana](https://asana.com/):  Project management
-
-* [![github](../images/cb-geo/github.png) GitHub](https://github.com/cb-geo): Git code hosting (mirror of GitLab)
-
-* [![gitlab](../images/cb-geo/gitlab.png) GitLab](https://git.cb-geo.com): Git code hosting and Continous Integration system
-
-* [![slack](../images/cb-geo/slack.png) Slack](https://cb-geo.slack.com/): Team communication
-
-* [![vagrant](../images/cb-geo/vagrant.png) Vagrant](https://www.vagrantup.com/): Virtual development environment deployment
 
 ## Policies
 We do have some policies, this is not an exhaustive list, but  the primary motivation is to promote open research and create a friendly team of researchers.
