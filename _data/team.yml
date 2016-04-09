@@ -1,0 +1,53 @@
+- name: Kenichi Soga
+  position: Professor
+  uni: Berkeley
+  image: soga.jpg
+  email: soga@berkeley.edu
+
+- name: Nicholas Sitar
+  position: Professor
+  uni: Berkeley
+  image: question.png
+  email: sitar@berkeley.edu
+
+- name: John Bray
+  position: Professor
+  uni: Berkeley
+  image: question.png
+  email: soga@berkeley.edu
+
+- name: Krishna Kumar
+  position: Research Associate
+  uni: Cambridge
+  image: question.png
+  email: kks32@cam.ac.uk
+
+- name: Yi Rui
+  position: Research Associate
+  uni: Cambridge
+  image: question.png
+  email: yr228@cam.ac.uk
+
+- name: John Wong
+  position: PhD scholar
+  uni: Cambridge
+  image: question.png
+  email: kwjw2@cam.ac.uk
+
+- name: Shyamini Kularathna
+  position: PhD scholar
+  uni: Cambridge
+  image: question.png
+  email: srhgk2@cam.ac.uk
+
+- name: Mike Gardner
+  position: PhD scholar
+  uni: Berkeley
+  image: question.png
+  email: mhgardner@berkeley.edu
+
+- name: Hansini Mallikarachchi
+  position: PhD scholar
+  uni: Cambridge
+  image: question.png
+  email: hem42@cam.ac.uk

@@ -309,3 +309,30 @@ span + .entry-title {
 		vertical-align: middle;
 	}
 }
+
+/* Team carousel on the front page */
+.team {
+  width: 100%;
+}
+
+/* Individual team member */
+.user {
+  display: inline-block;
+  text-align: center;
+  font-size: medium;
+  padding-top: 2em;
+  padding-right: 1em;
+  padding-bottom: 2em;
+  padding-left: 2em;
+}
+
+/* Team member's picture */
+.userimg {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
