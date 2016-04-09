@@ -1,4 +1,4 @@
-# Jekyll3-Base Template
+# CB-Geo webpage
 > Krishna Kumar
 
 Based on [**So Simple Theme**](http://mmistakes.github.io/minimal-mistakes/)

@@ -5,7 +5,7 @@ locale: en_GB
 description: Cambridge Berkeley Computational Geomechanics Group
 #logo: site-logo.png
 search: true
-url: http://cb-geo.com
+url: http://cb-geo.github.io
 #url: http://localhost:4000
 
 # Jekyll configuration
