@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cambridge-Berkeley Geomechanics
+#title: Cambridge-Berkeley Geomechanics
 excerpt: "Cambridge-Berkeley Computational Geomechanics Research"
 image:
   feature: cb-geo/banner.png
@@ -29,25 +29,6 @@ Welcome to the Cambridge - Berkeley Computational Geomechanics (CB-Geo) group. W
    </div>
 <!-- End team -->
 
-### Cambridge 
-
-* Krishna Kumar, Research Associate
-
-* Yi Rui, Research Associate
-
-* John Wong, PhD Researcher
-
-* Shyamini Kularathna, PhD Researcher
-
-* Hansini Malikachari, PhD Researcher
-
-### Berkeley
-
-* John Bray, Professor
-
-* Nicholas Sitar, Professor
-
-* Mike Gardner, PhD Researcher
 
 ## Resources
 

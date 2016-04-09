@@ -7,19 +7,19 @@
 - name: Nicholas Sitar
   position: Professor
   uni: Berkeley
-  image: question.png
+  image: sitar.jpg
   email: sitar@berkeley.edu
 
 - name: John Bray
   position: Professor
   uni: Berkeley
-  image: question.png
-  email: soga@berkeley.edu
+  image: bray.jpg
+  email: bray@berkeley.edu
 
 - name: Krishna Kumar
   position: Research Associate
   uni: Cambridge
-  image: question.png
+  image: kumar.jpg
   email: kks32@cam.ac.uk
 
 - name: Yi Rui
@@ -43,7 +43,7 @@
 - name: Mike Gardner
   position: PhD scholar
   uni: Berkeley
-  image: question.png
+  image: gardner.jpg
   email: mhgardner@berkeley.edu
 
 - name: Hansini Mallikarachchi
