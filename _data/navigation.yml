@@ -6,11 +6,14 @@
 - title: Articles
   url: /articles/
 
-- title: Tags
-  url: /tags/
+#- title: Tags
+#  url: /tags/
 
 - title: Policies
   url: /policies/
 
-- title: Search
-  url: /search/
+- title: Docs
+  url: https://www.gitbook.com/@cb-geo
+  
+#- title: Search
+#  url: /search/
