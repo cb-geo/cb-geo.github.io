@@ -14,7 +14,7 @@ excerpt: "Cambridge-Berkeley Computational Geomechanics Research"
 
 * Lattice Boltzmann Method
 
-* [Lattice Element Method]({{ site.url }}/articles/lem/)
+* [Lattice Element Method]({{ site.url }}/research/lem/)
 
 * Material Point Method
 

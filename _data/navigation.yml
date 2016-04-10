@@ -6,11 +6,11 @@
 - title: Research
   url: /research/
  
-#- title: Articles
+#- title: Research areas
 #  url: /articles/
 
-#- title: Tags
-#  url: /tags/
+- title: Tags
+  url: /tags/
 
 - title: Getting started
   url: /getting-started/
@@ -18,5 +18,5 @@
 - title: Docs
   url: https://www.gitbook.com/@cb-geo
   
-#- title: Search
-#  url: /search/
+- title: Search
+  url: /search/
