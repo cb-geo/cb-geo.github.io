@@ -1,0 +1,24 @@
+language: ruby
+rvm:
+- 2.1
+
+sudo: false # route your build to the container-based infrastructure for a faster build
+
+script:
+    - bundle update
+    - set -e
+    - bundle exec jekyll build --drafts
+#    - bundle exec htmlproof ./_site
+branches:
+  only:
+  - gh-pages     # test the gh-pages branch
+
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+
+
+notifications:
+  slack:
+    rooms:
+      - cb-geo:0N3fJy823MGsJvcDB91m4p8H#builds

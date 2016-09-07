@@ -2,6 +2,7 @@
 > Krishna Kumar
 
 Based on [**So Simple Theme**](http://mmistakes.github.io/minimal-mistakes/)
+[![Build status](https://api.travis-ci.org/cb-geo/cb-geo.github.io.svg)](https://travis-ci.org/cb-geo/cb-geo.github.io/builds)
 
 ## Pre-requisites
 
