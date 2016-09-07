@@ -9,9 +9,6 @@ script:
     - set -e
     - bundle exec jekyll build --drafts
 #    - bundle exec htmlproof ./_site
-branches:
-  only:
-  - gh-pages     # test the gh-pages branch
 
 env:
   global:
