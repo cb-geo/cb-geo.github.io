@@ -1,9 +1,0 @@
-# Jekyll Build
-Build:     
-  script:
-    - bundle update
-    - set -e
-    - bundle exec jekyll build --drafts
-#    - bundle exec htmlproof ./_site
-  tags:
-    - cb-geo

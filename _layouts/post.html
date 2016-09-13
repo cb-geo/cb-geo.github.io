@@ -38,13 +38,6 @@
         <span class="entry-date date published"><time datetime="{{ page.date | date_to_xmlschema }}"><i class="fa fa-calendar-o"></i> {{ page.date | date: "%B %d, %Y" }}</time></span>
         {% if page.modified %}<span class="entry-date date modified"><time datetime="{{ page.modified }}"><i class="fa fa-pencil"></i> {{ page.modified | date: "%B %d, %Y" }}</time></span>{% endif %}-->
       </footer>
-      <div class="entry-content">
-        {{ content }}
-        <!--{% if (site.owner.disqus-shortname and page.comments) or site.comments %}
-        <div id="disqus_thread"></div><!-- /#disqus_thread -->
-        {% include disqus-comments.html %}
-        {% endif %}-->
-      </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
     <nav class="pagination" role="navigation">
       {% if page.previous %}
