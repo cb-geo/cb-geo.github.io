@@ -111,3 +111,12 @@
   uni: Cambridge
   image: question.png
   email: ks743@cam.ac.uk
+
+# Visitors
+
+- name: Yishu Wang
+  role: visitor
+  position: PhD candidate
+  uni: Cambridge - Visitor
+  image: question.png
+  email: yw407@cam.ac.uk

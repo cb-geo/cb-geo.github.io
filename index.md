@@ -88,9 +88,10 @@ Welcome to the Cambridge - Berkeley Computational Geomechanics (CB-Geo) group. W
 
 ### Visitors
 
-<!-- Team filled from _data/team.yaml-->
+<!-- Team filled from _data/members.yaml-->
    <div class="team">
-    {% for member in site.data.visitors %}
+    {% for member in site.data.members %}
+      {% if member.role == "visitor" %}
        <div class="user">
          <div class="userimg" style="background-image:url('{{ site.baseurl }}/images/cb-geo/team/{{ member.image }}')">
          </div>
@@ -98,13 +99,14 @@ Welcome to the Cambridge - Berkeley Computational Geomechanics (CB-Geo) group. W
          {{ member.position }}, {{member.uni }}<br/>
 	 <a href="mailto:{{ member.email }}">{{ member.email }}</a>
        </div>
+      {% endif %}
     {% endfor %}
    </div>
 <!-- End team -->
 
 
 ### Past team members
-<!-- Team filled from _data/team.yaml-->
+<!-- Team filled from _data/teampast.yaml-->
    <div class="team">
     {% for member in site.data.teampast %}
        <div class="user">
