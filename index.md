@@ -18,7 +18,8 @@ Welcome to the Cambridge - Berkeley Computational Geomechanics (CB-Geo) group. W
 ### Team leads
 <!-- Team filled from _data/team.yaml-->
    <div class="team">
-    {% for member in site.data.core-team %}
+    {% for member in site.data.members %}
+      {% if member.role == "core" %}
        <div class="user">
          <div class="userimg" style="background-image:url('{{ site.baseurl }}/images/cb-geo/team/{{ member.image }}')">
          </div>
@@ -26,15 +27,17 @@ Welcome to the Cambridge - Berkeley Computational Geomechanics (CB-Geo) group. W
          {{ member.position }}, {{member.uni }}<br/>
 	 <a href="mailto:{{ member.email }}">{{ member.email }}</a>
        </div>
+      {% endif %}
     {% endfor %}
    </div>
 <!-- End team -->
 
 ### Academics
 
-<!-- Team filled from _data/team.yaml-->
+<!-- Team filled from _data/members.yaml-->
    <div class="team">
-    {% for member in site.data.academics %}
+    {% for member in site.data.members %}
+      {% if member.role == "academic" %}
        <div class="user">
          <div class="userimg" style="background-image:url('{{ site.baseurl }}/images/cb-geo/team/{{ member.image }}')">
          </div>
@@ -42,15 +45,17 @@ Welcome to the Cambridge - Berkeley Computational Geomechanics (CB-Geo) group. W
          {{ member.position }}, {{member.uni }}<br/>
 	 <a href="mailto:{{ member.email }}">{{ member.email }}</a>
        </div>
+      {% endif %}
     {% endfor %}
    </div>
 <!-- End team -->
 
 ### Post docs
 
-<!-- Team filled from _data/team.yaml-->
+<!-- Team filled from _data/members.yaml-->
    <div class="team">
-    {% for member in site.data.postdocs %}
+    {% for member in site.data.members %}
+      {% if member.role == "researcher" %}
        <div class="user">
          <div class="userimg" style="background-image:url('{{ site.baseurl }}/images/cb-geo/team/{{ member.image }}')">
          </div>
@@ -58,15 +63,17 @@ Welcome to the Cambridge - Berkeley Computational Geomechanics (CB-Geo) group. W
          {{ member.position }}, {{member.uni }}<br/>
 	 <a href="mailto:{{ member.email }}">{{ member.email }}</a>
        </div>
+      {% endif %}
     {% endfor %}
    </div>
 <!-- End team -->
 
 ### Students
 
-<!-- Team filled from _data/team.yaml-->
+<!-- Team filled from _data/members.yaml-->
    <div class="team">
-    {% for member in site.data.students %}
+    {% for member in site.data.members %}
+      {% if member.role == "student" %}
        <div class="user">
          <div class="userimg" style="background-image:url('{{ site.baseurl }}/images/cb-geo/team/{{ member.image }}')">
          </div>
@@ -74,6 +81,7 @@ Welcome to the Cambridge - Berkeley Computational Geomechanics (CB-Geo) group. W
          {{ member.position }}, {{member.uni }}<br/>
 	 <a href="mailto:{{ member.email }}">{{ member.email }}</a>
        </div>
+      {% endif %}
     {% endfor %}
    </div>
 <!-- End team -->
