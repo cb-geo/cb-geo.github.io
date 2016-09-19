@@ -10,7 +10,7 @@ excerpt: "Cambridge-Berkeley Computational Geomechanics Research"
 
 * Discrete Element Method
 
-* Finite Element Method
+* [Finite Element Method]({{ site.url }}/research/fem/)
 
 * Lattice Boltzmann Method
 
