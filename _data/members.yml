@@ -5,6 +5,12 @@
   uni: Berkeley
   image: soga.jpg
   email: soga@berkeley.edu
+  area: 
+    - DEM    
+    - FEM
+    - LBM
+    - LEM
+    - MPM    
 
 - name: Krishna Kumar
   role: core
@@ -12,6 +18,12 @@
   uni: Cambridge
   image: kumar.jpg
   email: kks32@cam.ac.uk
+  area: 
+    - DEM    
+    - FEM
+    - LBM
+    - LEM
+    - MPM
 
 # Academics
 - name: Giovanna Biscontin
@@ -43,6 +55,7 @@
   uni: Cambridge
   image: question.png
   email: yr228@cam.ac.uk
+  area: FEM
 
 - name: Xiaomin Xu
   role: researcher
@@ -50,6 +63,10 @@
   uni: Cambridge
   image: question.png
   email: xx787@cam.ac.uk
+  area: 
+    - DEM
+    - LEM
+
 
 # PhD Students
 
@@ -63,7 +80,7 @@
 - name: Mike Gardner
   role: student
   position: PhD candidate
-  uni: Cambridge
+  uni: Berkeley
   image: gardner.jpg
   email: mhgardner@berkeley.edu
 
@@ -95,22 +112,31 @@
   image: question.png
   email: ts600@cam.ac.uk
 
+- name: Ezra Setiasabda
+  role: student
+  position: PhD candidate
+  uni: Berkeley
+  image: question.jpg
+  email: ezrayst@berkeley.edu
+  area: MPM
+
 - name: John Wong
   role: student
   position: PhD candidate
   uni: Cambridge
   image: question.png
   email: kwjw2@cam.ac.uk
-
+  area: LEM
 
 # Masters students
-
-- name: Kentaro Suda
+- name: Maryam Alghannam 
   role: student
   position: Masters student
-  uni: Cambridge
+  uni: Berkeley
   image: question.png
-  email: ks743@cam.ac.uk
+  email: maryamgh@berkeley.edu
+  area: LEM
+
 
 # Visitors
 

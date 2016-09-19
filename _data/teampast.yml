@@ -1,4 +1,4 @@
-# Visitors
+# Past members
 - name: Yuelang Jin
   position: PhD candidate
   uni: Cambridge - Visitor
@@ -11,6 +11,12 @@
   image: question.png
   email: l.pelecanos@bath.ac.uk
 
+- name: Kentaro Suda
+  role: student
+  position: Masters student
+  uni: Cambridge
+  image: question.png
+  email: ks743@cam.ac.uk
 
 - name: Xiang Sun
   position: PhD scholar
