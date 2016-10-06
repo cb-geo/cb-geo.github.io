@@ -14,6 +14,8 @@ The following resources are available within the CB-Geo group.
 
 * [![docker]({{site.url}}/images/cb-geo/resources/docker.png) Docker](https://hub.docker.com/r/cbgeo/):  Container management
 
+* [![docker]({{site.url}}/images/cb-geo/resources/discourse.png) Forum](https://forum.cbgeo.com/):  Q&A forum
+
 * [![github]({{site.url}}/images/cb-geo/resources/github.png) GitHub](https://github.com/cb-geo): Git code hosting
 
 * [![gitlab]({{site.url}}/images/cb-geo/resources/gitlab.png) GitLab](https://gitlab.com/groups/cb-geo): Git code hosting (mirror of GitHub)
