@@ -8,7 +8,7 @@ excerpt: "Cambridge-Berkeley Computational Geomechanics Research"
 
 ## Numerical Methods
 
-* Discrete Element Method
+* [Discrete Element Method]({{ site.url }}/research/dem/)
 
 * [Finite Element Method]({{ site.url }}/research/fem/)
 

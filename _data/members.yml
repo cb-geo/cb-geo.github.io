@@ -46,6 +46,8 @@
   uni: Berkeley
   image: sitar.jpg
   email: sitar@berkeley.edu
+  area: 
+    - DEM
 
 # Researchers
 
@@ -83,6 +85,8 @@
   uni: Berkeley
   image: gardner.jpg
   email: mhgardner@berkeley.edu
+  area: 
+    - DEM   
 
 - name: Shyamini Kularathna
   role: student
