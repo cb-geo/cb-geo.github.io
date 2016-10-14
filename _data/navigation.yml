@@ -9,8 +9,8 @@
 #- title: Research areas
 #  url: /articles/
 
-- title: Tags
-  url: /tags/
+#- title: Tags
+#  url: /tags/
 
 - title: Getting started
   url: /getting-started/
@@ -20,6 +20,9 @@
   
 - title: Forum
   url: https://forum.cb-geo.com/
+
+- title: Publications
+  url: https://zenodo.org/communities/cb-geo/?page=1&size=20
 
 - title: Status
   url: /status/
