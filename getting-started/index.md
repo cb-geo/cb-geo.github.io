@@ -10,11 +10,9 @@ The following resources are available within the CB-Geo group.
 
 * [![appear.in]({{site.url}}/images/cb-geo/resources/appear.in.png) appear.in](https://appear.in/cb-geo): Video conferencing
 
-* [![asana]({{site.url}}/images/cb-geo/resources/asana.png) Asana](https://asana.com/):  Project management
-
 * [![docker]({{site.url}}/images/cb-geo/resources/docker.png) Docker](https://hub.docker.com/r/cbgeo/):  Container management
 
-* [![docker]({{site.url}}/images/cb-geo/resources/discourse.png) Forum](https://forum.cbgeo.com/):  Q&A forum
+* [![docker]({{site.url}}/images/cb-geo/resources/discourse.png) Forums](https://www.cbgeo.com/forums):  Q&A forum
 
 * [![github]({{site.url}}/images/cb-geo/resources/github.png) GitHub](https://github.com/cb-geo): Git code hosting
 
@@ -23,8 +21,6 @@ The following resources are available within the CB-Geo group.
 * [![slack]({{site.url}}/images/cb-geo/resources/slack.png) Slack](https://cb-geo.slack.com/): Team communication
 
 * [![travis]({{site.url}}/images/cb-geo/resources/travis.png) Travis-CI](https://travis-ci.org/cb-geo): Continous integration
-
-* [![vagrant]({{site.url}}/images/cb-geo/resources/vagrant.png) Vagrant](https://www.vagrantup.com/): Virtual environment deployment
 
 
 ## Getting started
