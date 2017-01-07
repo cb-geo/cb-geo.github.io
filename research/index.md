@@ -12,7 +12,7 @@ excerpt: "Cambridge-Berkeley Computational Geomechanics Research"
 
 * [Finite Element Method]({{ site.url }}/research/fem/)
 
-* Lattice Boltzmann Method
+* [Lattice Boltzmann Method]({{ site.url }}/research/lbm/)
 
 * [Lattice Element Method]({{ site.url }}/research/lem/)
 
