@@ -20,7 +20,7 @@ The following resources are available within the CB-Geo group.
 
 * [![travis]({{site.url}}/images/cb-geo/resources/travis.png) Travis-CI](https://travis-ci.org/cb-geo): Continous integration
 
-* [![Darwin]({{site.url}}/images/cb-geo/resources/travis.png) Darwin / Wilkes](https://travis-ci.org/cb-geo): High Performance Compute Cluster
+* [![Darwin]({{site.url}}/images/cb-geo/resources/hpcs.png) Darwin / Wilkes](http://www.hpc.cam.ac.uk): High Performance Compute Cluster
 
 
 ## Getting started
