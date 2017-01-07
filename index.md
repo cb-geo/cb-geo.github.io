@@ -11,7 +11,7 @@ image:
 
 # Welcome
 
-Welcome to the Cambridge - Berkeley Computational Geomechanics (CB-Geo) group. We encourage you to make use of our infrastructure and tools, and also contribute towards the development of geomechanics.
+Welcome to the Cambridge - Berkeley Computational Geomechanics (CB-Geo) group. We develop open source numerical tools and methods to solve complex geomechanics problems. Please see our [research](https://www.cb-geo.com/research) section for more details. We encourage you to make use of our infrastructure and tools, and also contribute towards the development of geomechanics.
 
 # Team
 
