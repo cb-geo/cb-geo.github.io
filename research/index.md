@@ -16,7 +16,7 @@ excerpt: "Cambridge-Berkeley Computational Geomechanics Research"
 
 * [Lattice Element Method]({{ site.url }}/research/lem/)
 
-* Material Point Method
+* [Material Point Method]({{ site.url }}/research/mpm/)
 
 ### Research Areas
 
