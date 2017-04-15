@@ -23,7 +23,7 @@
     - DEM
 
 - name: Kenichi Soga
-  role: core
+  role: academic
   position: Professor
   uni: Berkeley
   image: soga.jpg
@@ -37,7 +37,7 @@
 
 # Researchers
 - name: Krishna Kumar
-  role: core
+  role: academic
   position: Research Associate
   uni: Cambridge
   image: kumar.jpg
