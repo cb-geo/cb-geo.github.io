@@ -15,23 +15,6 @@ Welcome to the Cambridge - Berkeley Computational Geomechanics (CB-Geo) group. W
 
 # Team
 
-### Team leads
-<!-- Team filled from _data/team.yaml-->
-   <div class="team">
-    {% for member in site.data.members %}
-      {% if member.role == "core" %}
-       <div class="user">
-         <div class="userimg" style="background-image:url('{{ site.baseurl }}/images/cb-geo/team/{{ member.image }}')">
-         </div>
-         <h4>{{ member.name }}</h4>	
-         {{ member.position }}, {{member.uni }}<br/>
-	 <a href="mailto:{{ member.email }}">{{ member.email }}</a>
-       </div>
-      {% endif %}
-    {% endfor %}
-   </div>
-<!-- End team -->
-
 ### Academics
 
 <!-- Team filled from _data/members.yaml-->
