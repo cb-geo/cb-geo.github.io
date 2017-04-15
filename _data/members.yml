@@ -1,30 +1,3 @@
-# Core team
-- name: Kenichi Soga
-  role: core
-  position: Professor
-  uni: Berkeley
-  image: soga.jpg
-  email: soga@berkeley.edu
-  area: 
-    - DEM    
-    - FEM
-    - LBM
-    - LEM
-    - MPM    
-
-- name: Krishna Kumar
-  role: core
-  position: Research Associate
-  uni: Cambridge
-  image: kumar.jpg
-  email: kks32@cam.ac.uk
-  area: 
-    - DEM    
-    - FEM
-    - LBM
-    - LEM
-    - MPM
-
 # Academics
 - name: Giovanna Biscontin
   role: academic
@@ -49,7 +22,32 @@
   area: 
     - DEM
 
+- name: Kenichi Soga
+  role: core
+  position: Professor
+  uni: Berkeley
+  image: soga.jpg
+  email: soga@berkeley.edu
+  area: 
+    - DEM    
+    - FEM
+    - LBM
+    - LEM
+    - MPM
+
 # Researchers
+- name: Krishna Kumar
+  role: core
+  position: Research Associate
+  uni: Cambridge
+  image: kumar.jpg
+  email: kks32@cam.ac.uk
+  area: 
+    - DEM    
+    - FEM
+    - LBM
+    - LEM
+    - MPM
 
 - name: Yi Rui
   role: researcher
