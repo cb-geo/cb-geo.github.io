@@ -1,0 +1,40 @@
+# Main developer
+- name: John Wong
+  role: student
+  position: PhD candidate
+  uni: Cambridge
+  image: question.png
+  email: kwjw2@cam.ac.uk
+
+# Academics
+- name: Kenichi Soga
+  role: academic
+  position: Professor
+  uni: Berkeley
+  image: soga.jpg
+  email: soga@berkeley.edu
+
+# Researchers
+- name: Xiaomin Xu
+  role: researcher
+  position: Research Associate
+  uni: Cambridge
+  image: question.png
+  email: xx787@cam.ac.uk
+
+- name: Krishna Kumar
+  role: researcher
+  position: Research Associate
+  uni: Cambridge
+  image: kumar.jpg
+  email: kks32@cam.ac.uk
+
+
+# Masters students
+- name: Maryam Alghannam 
+  role: student
+  position: Masters student
+  uni: Berkeley
+  image: question.png
+  email: maryamgh@berkeley.edu
+
