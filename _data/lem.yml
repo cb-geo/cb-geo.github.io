@@ -1,10 +1,11 @@
-# Main developer
+# PhD Students
 - name: John Wong
   role: student
   position: PhD candidate
   uni: Cambridge
-  image: question.png
+  image: wong.jpg
   email: kwjw2@cam.ac.uk
+  area: LEM
 
 # Academics
 - name: Kenichi Soga
@@ -13,6 +14,12 @@
   uni: Berkeley
   image: soga.jpg
   email: soga@berkeley.edu
+  area: 
+    - DEM    
+    - FEM
+    - LBM
+    - LEM
+    - MPM
 
 # Researchers
 - name: Xiaomin Xu
@@ -21,6 +28,9 @@
   uni: Cambridge
   image: question.png
   email: xx787@cam.ac.uk
+  area: 
+    - DEM
+    - LEM
 
 - name: Krishna Kumar
   role: researcher
@@ -28,7 +38,12 @@
   uni: Cambridge
   image: kumar.jpg
   email: kks32@cam.ac.uk
-
+  area: 
+    - DEM    
+    - FEM
+    - LBM
+    - LEM
+    - MPM
 
 # Masters students
 - name: Maryam Alghannam 
@@ -37,4 +52,5 @@
   uni: Berkeley
   image: question.png
   email: maryamgh@berkeley.edu
+  area: LEM
 
