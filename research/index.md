@@ -8,6 +8,8 @@ excerpt: "Cambridge-Berkeley Computational Geomechanics Research"
 
 ## Numerical Methods
 
+* [Dual Lattice Method]({{ site.url }}/research/dlm/)
+
 * [Lattice Boltzmann Method]({{ site.url }}/research/lbm/)
 
-* [Lattice Element Method]({{ site.url }}/research/lem/)
+
