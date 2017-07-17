@@ -8,13 +8,13 @@ excerpt: "CB-Geo Forums"
 
 The following user forums are available within the CB-Geo group.
 
-* [DEM user forum](https://forum.cb-geo.com/)
+* [DEM user forum](https://groups.google.com/forum/#!forum/cbgeo-dem)
 
-* [HPC user forum](https://forum.cb-geo.com/c/hpc)
+* [HPC user forum](https://groups.google.com/forum/#!forum/cbgeo-hpc)
 
-* [LEM user forum](https://forum.cb-geo.com/c/lem)
+* [LEM user forum](https://groups.google.com/forum/#!forum/cbgeolem)
 
-* [LBM user forum](https://forum.cb-geo.com/)
+* [LBM user forum](https://groups.google.com/forum/#!forum/cbgeo-lbm)
 
-* [MPM user forum](https://forum.cb-geo.com/c/mpm)
+* [MPM user forum](https://groups.google.com/forum/#!forum/cbgeo-mpm)
 
