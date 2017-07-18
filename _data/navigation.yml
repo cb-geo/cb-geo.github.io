@@ -16,7 +16,8 @@
   url: /getting-started/
 
 - title: Forums
-  url: /forums/
+#  url: /forums/
+  url: https://forum.cb-geo.com
 
 - title: GitHub
   url: https://github.com/cb-geo
