@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Forums
-excerpt: "CB-Geo Forums"
+title: Docs
+excerpt: "CB-Geo Docs"
 ---
 
 # Docs
