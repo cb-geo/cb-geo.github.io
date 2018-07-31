@@ -1,4 +1,19 @@
 # Past members
+- name: Maryam Alghannam 
+  role: student
+  position: Masters student
+  uni: Berkeley
+  image: question.png
+  email: maryamgh@berkeley.edu
+  area: LEM
+
+- name: Francisco Cruz
+  role: student
+  position: PhD candidate
+  uni: Cambridge
+  image: question.png
+  email: rfpmlc2@cam.ac.uk
+
 - name: Yuelang Jin
   position: PhD candidate
   uni: Cambridge - Visitor
@@ -18,16 +33,18 @@
   image: question.png
   email: ks743@cam.ac.uk
 
-- name: Xiang Sun
-  position: PhD scholar
+- name: Yishu Wang
+  role: visitor
+  position: PhD candidate
   uni: Cambridge - Visitor
   image: question.png
-  email: 
+  email: yw407@cam.ac.uk
 
 - name: Chuanhu Zhang
   position: PhD scholar
   uni: Cambridge - Visitor
   image: question.png
   email: zhangchuanhu@gmail.com
+
 
 

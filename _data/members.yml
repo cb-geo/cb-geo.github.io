@@ -5,6 +5,9 @@
   uni: Cambridge
   image: biscontin.jpg
   email: gb479@cam.ac.uk
+  area:
+    - DEM    
+    - MPM  
 
 - name: Jon Bray
   role: academic
@@ -49,6 +52,15 @@
     - LEM
     - MPM
 
+- name: Shyamini Kularathna
+  role: researcher
+  position: Research Associate
+  uni: Berkeley
+  image: question.png
+  email: srhgk2@cam.ac.uk
+  area: 
+    - MPM
+
 - name: Yi Rui
   role: researcher
   position: Research Associate
@@ -70,13 +82,6 @@
 
 # PhD Students
 
-- name: Francisco Cruz
-  role: student
-  position: PhD candidate
-  uni: Cambridge
-  image: question.png
-  email: rfpmlc2@cam.ac.uk
-
 - name: Mike Gardner
   role: student
   position: PhD candidate
@@ -85,13 +90,6 @@
   email: mhgardner@berkeley.edu
   area: 
     - DEM   
-
-- name: Shyamini Kularathna
-  role: student
-  position: PhD candidate
-  uni: Cambridge
-  image: question.png
-  email: srhgk2@cam.ac.uk
 
 - name: Hao Luo
   role: student
@@ -139,20 +137,19 @@
   area: LEM
 
 # Masters students
-- name: Maryam Alghannam 
+- name: Zhenxiang 
   role: student
   position: Masters student
   uni: Berkeley
   image: question.png
-  email: maryamgh@berkeley.edu
+  email: zhenxiang_su@berkeley.edu
   area: LEM
 
 
 # Visitors
 
-- name: Yishu Wang
-  role: visitor
-  position: PhD candidate
-  uni: Cambridge - Visitor
+- name: Xiang Sun
+  position: Research Associate
+  uni: Berkeley
   image: question.png
-  email: yw407@cam.ac.uk
+  email: 
