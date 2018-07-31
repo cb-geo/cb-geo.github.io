@@ -54,6 +54,15 @@
 
 # Researchers
 
+- name: Shyamini Kularathna
+  role: researcher
+  position: Research Associate
+  uni: Cambridge
+  image: question.png
+  email: srhgk2@cam.ac.uk
+  area: 
+    - MPM
+
 - name: Yi Rui
   role: researcher
   position: Research Associate
@@ -90,13 +99,6 @@
   email: mhgardner@berkeley.edu
   area: 
     - DEM   
-
-- name: Shyamini Kularathna
-  role: student
-  position: PhD candidate
-  uni: Cambridge
-  image: question.png
-  email: srhgk2@cam.ac.uk
 
 - name: Hao Luo
   role: student
