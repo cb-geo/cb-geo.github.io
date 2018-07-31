@@ -84,13 +84,6 @@
 
 # PhD Students
 
-- name: Francisco Cruz
-  role: student
-  position: PhD candidate
-  uni: Cambridge
-  image: question.png
-  email: rfpmlc2@cam.ac.uk
-
 - name: Mike Gardner
   role: student
   position: PhD candidate
@@ -146,20 +139,19 @@
   area: LEM
 
 # Masters students
-- name: Maryam Alghannam 
+- name: Zhenxiang 
   role: student
   position: Masters student
   uni: Berkeley
   image: question.png
-  email: maryamgh@berkeley.edu
+  email: zhenxiang_su@berkeley.edu
   area: LEM
 
 
 # Visitors
 
-- name: Yishu Wang
-  role: visitor
-  position: PhD candidate
-  uni: Cambridge - Visitor
+- name: Xiang Sun
+  position: Research Associate
+  uni: Berkeley
   image: question.png
-  email: yw407@cam.ac.uk
+  email: 
