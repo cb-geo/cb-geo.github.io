@@ -12,4 +12,5 @@ excerpt: "Cambridge-Berkeley Computational Geomechanics Research"
 
 * [Lattice Boltzmann Method]({{ site.url }}/research/lbm/)
 
+* [Material Point Method]({{ site.url }}/research/mpm/)
 
