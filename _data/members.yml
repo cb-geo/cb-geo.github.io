@@ -1,4 +1,17 @@
 # Academics
+- name: Kenichi Soga
+  role: academic
+  position: Professor
+  uni: Berkeley
+  image: soga.jpg
+  email: soga@berkeley.edu
+  area: 
+    - DEM    
+    - FEM
+    - LBM
+    - LEM
+    - MPM
+
 - name: Giovanna Biscontin
   role: academic
   position: Lecturer
@@ -24,19 +37,6 @@
   email: sitar@berkeley.edu
   area: 
     - DEM
-
-- name: Kenichi Soga
-  role: academic
-  position: Professor
-  uni: Berkeley
-  image: soga.jpg
-  email: soga@berkeley.edu
-  area: 
-    - DEM    
-    - FEM
-    - LBM
-    - LEM
-    - MPM
 
 # Researchers
 - name: Krishna Kumar
