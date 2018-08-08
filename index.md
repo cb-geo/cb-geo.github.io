@@ -1,7 +1,7 @@
 ---
 layout: page
-#title: Cambridge-Berkeley Geomechanics
-excerpt: "Cambridge-Berkeley Computational Geomechanics Research"
+#title: CB-Geo
+excerpt: "CB-Geo Computational Geomechanics Research"
 image:
   feature: cb-geo/banner.png
 ---
@@ -11,7 +11,7 @@ image:
 
 # Welcome
 
-Welcome to the Cambridge - Berkeley Computational Geomechanics (CB-Geo) group. We develop open source numerical tools and methods to solve complex geomechanics problems. Please see our [research](https://www.cb-geo.com/research) section for more details. We encourage you to make use of our infrastructure and tools, and also contribute towards the development of geomechanics.
+Welcome to the CB-Geo computational geomechanics research group. We develop open source numerical tools and methods to solve complex geomechanics problems. Please see our [research](https://www.cb-geo.com/research) section for more details. We encourage you to make use of our infrastructure and tools, and also contribute towards the development of geomechanics.
 
 # Team
 
