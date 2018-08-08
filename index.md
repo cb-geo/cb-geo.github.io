@@ -1,7 +1,7 @@
 ---
 layout: page
 #title: CB-Geo
-excerpt: "CB-Geo Computational Geomechanics Research"
+excerpt: "CB-Geo Computational Geomechanics Research Group"
 image:
   feature: cb-geo/banner.png
 ---
