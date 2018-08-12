@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-excerpt: "Cambridge-Berkeley Computational Geomechanics Research"
+excerpt: "CB-Geo Computational Geomechanics Research"
 #image:
 #  feature: cb-geo/banner.png
 ---
