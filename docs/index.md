@@ -8,13 +8,13 @@ excerpt: "CB-Geo Docs"
 
 ## CB-Geo Docs
 
-* [Welcome](http://cb-geo.github.io/doc/)
+* [Welcome](https://cb-geo.github.io/doc/)
 
 ## Computing
 
-* [C++ guidelines](http://cb-geo.github.io/cpp-guide/)
+* [C++ guidelines](https://cb-geo.github.io/cpp-guide/)
 
-* [Cambridge HPCS](http://cb-geo.github.io/hpc-doc/)
+* [Cambridge HPCS](https://cb-geo.github.io/hpc-doc/)
 
 ## Numerical Methods
 
