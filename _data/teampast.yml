@@ -33,6 +33,14 @@
   image: question.png
   email: ks743@cam.ac.uk
 
+- name: John Wong
+  role: student
+  position: PhD candidate
+  uni: Cambridge
+  image: wong.jpg
+  #  email: kwjw2@cam.ac.uk
+  area: LEM
+
 - name: Yishu Wang
   role: visitor
   position: PhD candidate
