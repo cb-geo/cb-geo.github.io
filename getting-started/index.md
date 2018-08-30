@@ -27,7 +27,7 @@ The following resources are available within the CB-Geo group.
 
 We at CB-Geo aim to promote *open research* and create a friendly team of researchers working in the area of computational geomechanics.
 
-* Please read our [welcome doc](https://doc.cb-geo.com/)
+* Please read our [welcome doc](https://cb-geo.github.io/doc/#/)
 
 * Please familiarise yourself with the tools and software that we use in our research group.
 
