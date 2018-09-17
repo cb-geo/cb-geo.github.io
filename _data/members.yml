@@ -39,6 +39,26 @@
     - DEM
 
 # Researchers
+
+- name: Michael Gardner
+  role: researcher
+  position: Postdoctoral Scholar
+  uni: NHERI SimCenter
+  image: gardner.jpg
+  email: mhgardner@berkeley.edu
+  area: 
+    - DEM   
+    - LBM   
+
+- name: Shyamini Kularathna
+  role: researcher
+  position: Research Associate
+  uni: Berkeley
+  image: kularathna.jpg
+  email: kshyamini@berkeley.edu
+  area: 
+    - MPM
+
 - name: Krishna Kumar
   role: researcher
   position: Research Associate
@@ -50,15 +70,6 @@
     - FEM
     - LBM
     - LEM
-    - MPM
-
-- name: Shyamini Kularathna
-  role: researcher
-  position: Research Associate
-  uni: Berkeley
-  image: kularathna.jpg
-  email: kshyamini@berkeley.edu
-  area: 
     - MPM
 
 - name: Yi Rui
@@ -81,15 +92,6 @@
 
 
 # PhD Students
-
-- name: Mike Gardner
-  role: student
-  position: PhD candidate
-  uni: Berkeley
-  image: gardner.jpg
-  email: mhgardner@berkeley.edu
-  area: 
-    - DEM   
 
 - name: Hao Luo
   role: student
