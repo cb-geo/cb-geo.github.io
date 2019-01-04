@@ -20,7 +20,20 @@
   email: gb479@cam.ac.uk
   area:
     - DEM    
-    - MPM  
+    - MPM
+
+- name: Krishna Kumar
+  role: academic
+  position: Assistant Professor
+  uni: UT Austin
+  image: kumar.jpg
+  email: krishnak@utexas.edu
+  area: 
+    - DEM    
+    - FEM
+    - LBM
+    - LEM
+    - MPM
 
 - name: Jon Bray
   role: academic
@@ -57,19 +70,6 @@
   image: kularathna.jpg
   email: kshyamini@berkeley.edu
   area: 
-    - MPM
-
-- name: Krishna Kumar
-  role: researcher
-  position: Research Associate
-  uni: Cambridge
-  image: kumar.jpg
-  email: kks32@cam.ac.uk
-  area: 
-    - DEM    
-    - FEM
-    - LBM
-    - LEM
     - MPM
 
 - name: Yi Rui
