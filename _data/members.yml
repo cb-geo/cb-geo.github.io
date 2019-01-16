@@ -2,7 +2,7 @@
 - name: Kenichi Soga
   role: academic
   position: Professor
-  uni: Berkeley
+  uni: UC Berkeley
   image: soga.jpg
   email: soga@berkeley.edu
   area: 
@@ -38,14 +38,14 @@
 - name: Jon Bray
   role: academic
   position: Professor
-  uni: Berkeley
+  uni: UC Berkeley
   image: bray.jpg
   email: bray@berkeley.edu
 
 - name: Nicholas Sitar
   role: academic
   position: Professor
-  uni: Berkeley
+  uni: UC Berkeley
   image: sitar.jpg
   email: sitar@berkeley.edu
   area: 
@@ -66,7 +66,7 @@
 - name: Shyamini Kularathna
   role: researcher
   position: Research Associate
-  uni: Berkeley
+  uni: UC Berkeley
   image: kularathna.jpg
   email: kshyamini@berkeley.edu
   area: 
@@ -93,6 +93,14 @@
 
 # PhD Students
 
+- name: Carlos Acosta-Buelvas
+  role: student
+  position: PhD candidate
+  uni: UT Austin
+  image: question.jpg
+  email: carlosacosta@utexas.edu
+  area: MPM
+
 - name: Hao Luo
   role: student
   position: PhD candidate
@@ -107,6 +115,14 @@
   image: question.png
   email: hem42@cam.ac.uk
 
+- name: Thiago Ordonho Araujo
+  role: student
+  position: PhD candidate
+  uni: UT Austin
+  image: question.jpg
+  email: thiago.araujo@utexas.edu
+  area: MPM
+
 - name: Tsubasa Sasaki
   role: student
   position: PhD candidate
@@ -117,10 +133,21 @@
 - name: Ezra Setiasabda
   role: student
   position: PhD candidate
-  uni: Berkeley
+  uni: UC Berkeley
   image: ezra.jpg
   email: ezrayst@berkeley.edu
   area: MPM
+
+- name: Zhenxiang Su
+  role: student
+  position: PhD candidate
+  uni: Berkeley
+  image: question.png
+  email: zhenxiang_su@berkeley.edu
+  area:
+    - DEM    
+    - LBM
+    - LEM
 
 - name: Christopher Wilkes
   role: student
@@ -130,21 +157,13 @@
   email: cw646@cam.ac.uk
   area: MPM
 
-
 # Masters students
-- name: Zhenxiang 
-  role: student
-  position: Masters student
-  uni: Berkeley
-  image: question.png
-  email: zhenxiang_su@berkeley.edu
-  area: LEM
 
 
 # Visitors
 
 - name: Xiang Sun
   position: Research Associate
-  uni: Berkeley
+  uni: UC Berkeley
   image: question.png
   email: 
