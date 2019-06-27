@@ -26,6 +26,13 @@
   image: question.png
   email: l.pelecanos@bath.ac.uk
 
+- name: Tsubasa Sasaki
+  role: student
+  position: PhD candidate
+  uni: Cambridge
+  image: question.png
+  email: ts600@cam.ac.uk
+
 - name: Kentaro Suda
   role: student
   position: Masters student
@@ -53,6 +60,3 @@
   uni: Cambridge - Visitor
   image: question.png
   email: zhangchuanhu@gmail.com
-
-
-

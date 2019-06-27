@@ -72,6 +72,12 @@
   area: 
     - MPM
 
+- name: Xiang Sun
+  position: Research Associate
+  uni: UC Berkeley
+  image: question.png
+  email: 
+
 - name: Yi Rui
   role: researcher
   position: Research Associate
@@ -93,27 +99,15 @@
 
 # PhD Students
 
-- name: Carlos Acosta-Buelvas
+- name: Reihaneh Hosseini
   role: student
   position: PhD candidate
   uni: UT Austin
   image: question.png
-  email: carlosacosta@utexas.edu
-  area: MPM
-
-- name: Hao Luo
-  role: student
-  position: PhD candidate
-  uni: Cambridge
-  image: question.png
-  email: hl423@cam.ac.uk
-
-- name: Hansini Mallikarachchi
-  role: student
-  position: PhD candidate
-  uni: Cambridge
-  image: question.png
-  email: hem42@cam.ac.uk
+  email: reihos@utexas.edu
+  area:
+    - DEM
+    - LBM
 
 - name: Thiago Ordonho Araujo
   role: student
@@ -122,13 +116,6 @@
   image: question.png
   email: thiago.araujo@utexas.edu
   area: MPM
-
-- name: Tsubasa Sasaki
-  role: student
-  position: PhD candidate
-  uni: Cambridge
-  image: question.png
-  email: ts600@cam.ac.uk
 
 - name: Ezra Setiasabda
   role: student
@@ -161,9 +148,3 @@
 
 
 # Visitors
-
-- name: Xiang Sun
-  position: Research Associate
-  uni: UC Berkeley
-  image: question.png
-  email: 
