@@ -72,48 +72,7 @@
   area: 
     - MPM
 
-- name: Yi Rui
-  role: researcher
-  position: Research Associate
-  uni: Cambridge
-  image: question.png
-  email: yr228@cam.ac.uk
-  area: FEM
-
-- name: Xiaomin Xu
-  role: researcher
-  position: Research Associate
-  uni: Cambridge
-  image: question.png
-  email: xx787@cam.ac.uk
-  area: 
-    - DEM
-    - LEM
-
-
 # PhD Students
-
-- name: Carlos Acosta-Buelvas
-  role: student
-  position: PhD candidate
-  uni: UT Austin
-  image: question.png
-  email: carlosacosta@utexas.edu
-  area: MPM
-
-- name: Hao Luo
-  role: student
-  position: PhD candidate
-  uni: Cambridge
-  image: question.png
-  email: hl423@cam.ac.uk
-
-- name: Hansini Mallikarachchi
-  role: student
-  position: PhD candidate
-  uni: Cambridge
-  image: question.png
-  email: hem42@cam.ac.uk
 
 - name: Thiago Ordonho Araujo
   role: student
@@ -123,12 +82,23 @@
   email: thiago.araujo@utexas.edu
   area: MPM
 
-- name: Tsubasa Sasaki
+- name: Bodhinanda Chandra
   role: student
   position: PhD candidate
-  uni: Cambridge
+  uni: UC Berkeley
+  image: nanda.jpg
+  email: bchandra@berkeley.edu
+  area: MPM
+
+- name: Reihaneh Hosseini
+  role: student
+  position: PhD candidate
+  uni: UT Austin
   image: question.png
-  email: ts600@cam.ac.uk
+  email: reihos@utexas.edu
+  area:
+    - DEM    
+    - LBM
 
 - name: Ezra Setiasabda
   role: student
@@ -145,9 +115,17 @@
   image: question.png
   email: zhenxiang_su@berkeley.edu
   area:
+    - LEM
+
+- name: Qiuyu Wang
+  role: student
+  position: PhD candidate
+  uni: UT Austin
+  image: question.png
+  email: qiuyu.wang@utexas.edu
+  area:
     - DEM    
     - LBM
-    - LEM
 
 - name: Christopher Wilkes
   role: student
@@ -159,10 +137,17 @@
 
 # Masters students
 
-
 # Visitors
 
 - name: Xiang Sun
+  role: visitor
+  position: Research Associate
+  uni: UC Berkeley
+  image: question.png
+  email: 
+
+- name: Tianchi Zhao
+  role: visitor
   position: Research Associate
   uni: UC Berkeley
   image: question.png

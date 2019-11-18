@@ -18,7 +18,14 @@
   position: PhD candidate
   uni: Cambridge - Visitor
   image: question.png
-  email: 
+  email:
+
+- name: Hao Luo
+  role: student
+  position: PhD candidate
+  uni: Cambridge
+  image: question.png
+  email: hl423@cam.ac.uk
 
 - name: Loizos Pelecanos
   position: Lecturer
@@ -26,12 +33,40 @@
   image: question.png
   email: l.pelecanos@bath.ac.uk
 
+- name: Hansini Mallikarachchi
+  role: student
+  position: PhD candidate
+  uni: Cambridge
+  image: question.png
+  email: hem42@cam.ac.uk
+
+- name: Yi Rui
+  role: researcher
+  position: Research Associate
+  uni: Cambridge
+  image: question.png
+  email: yr228@cam.ac.uk
+
+- name: Tsubasa Sasaki
+  role: student
+  position: PhD candidate
+  uni: Cambridge
+  image: question.png
+  email: ts600@cam.ac.uk
+
 - name: Kentaro Suda
   role: student
   position: Masters student
   uni: Cambridge
   image: question.png
   email: ks743@cam.ac.uk
+
+- name: Xiaomin Xu
+  role: researcher
+  position: Research Associate
+  uni: Cambridge
+  image: question.png
+  email: xx787@cam.ac.uk
 
 - name: John Wong
   role: student
@@ -53,6 +88,4 @@
   uni: Cambridge - Visitor
   image: question.png
   email: zhangchuanhu@gmail.com
-
-
 
