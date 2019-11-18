@@ -72,6 +72,12 @@
   area: 
     - MPM
 
+- name: Xiang Sun
+  position: Research Associate
+  uni: UC Berkeley
+  image: question.png
+  email: 
+
 # PhD Students
 
 - name: Thiago Ordonho Araujo
@@ -138,13 +144,6 @@
 # Masters students
 
 # Visitors
-
-- name: Xiang Sun
-  role: visitor
-  position: Research Associate
-  uni: UC Berkeley
-  image: question.png
-  email: 
 
 - name: Tianchi Zhao
   role: visitor
