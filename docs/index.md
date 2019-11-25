@@ -4,11 +4,9 @@ title: Docs
 excerpt: "CB-Geo Docs"
 ---
 
-# Docs
-
 ## CB-Geo Docs
 
-* [Welcome](https://cb-geo.github.io/doc/)
+* [Welcome](https://doc.cb-geo.com/)
 
 ## Computing
 
@@ -18,7 +16,7 @@ excerpt: "CB-Geo Docs"
 
 ## Numerical Methods
 
-* [Lattice Element Method](https://cb-geo.github.io/lem-doc)
+* [Material Point Method](https://mpm.cb-geo.com)
 
-* [Material Point Method](https://cb-geo.github.io/mpm-doc)
+* [Lattice Element Method](https://cb-geo.github.io/lem-doc)
 
