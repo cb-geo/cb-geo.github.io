@@ -6,7 +6,7 @@ excerpt: "CB-Geo Forums"
 
 ## Forums
 
-Access the forums of the [CB-Geo group](https://forum.cb-geo.com/)
+Access the forums of the [CB-Geo group](https://cb-geo.discourse.group/)
 
 <!--
 * [HPC user forum](https://groups.google.com/forum/#!forum/cbgeo-hpc)
