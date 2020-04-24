@@ -21,4 +21,4 @@ The Lattice Boltzmann equation Method (LBM) is a meso-scale fluid solver for mod
 
 Lattice Element Method (LEM) is a novel technique which involves coupling the solid lattice system and  the fluid lattice system to model the multi-physics problem.
 
-![CB-Geo](cb-geo/banner.png)
+![CB-Geo](images/cb-geo/banner.png)
