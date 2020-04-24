@@ -2,18 +2,11 @@
 layout: page
 #title: CB-Geo
 excerpt: "CB-Geo Computational Geomechanics Research Group"
-image:
-  feature: cb-geo/banner.png
 ---
-* Table of Contents
-{:toc}
-
-
-# Welcome
-
-Welcome to the CB-Geo computational geomechanics research group. We develop open source numerical tools and methods to solve complex geomechanics problems. We encourage you to make use of our infrastructure and tools, and also contribute towards the development of geomechanics.
 
 ## Research
+Welcome to the CB-Geo computational geomechanics research group. We develop open source numerical tools and methods to solve complex geomechanics problems. We encourage you to make use of our infrastructure and tools, and also contribute towards the development of geomechanics.
+
 ### Numerical Methods
 
 * [Material Point Method]({{ site.url }}/research/mpm/)
@@ -26,4 +19,6 @@ The Lattice Boltzmann equation Method (LBM) is a meso-scale fluid solver for mod
 
 * [Lattice Element Method]({{ site.url }}/research/dlm/)
 
-Dual Lattice Model (DLM) is a novel technique which involves coupling the solid lattice system and  the fluid lattice system (Figure 2) to model the multi-physics problem.
+Lattice Element Method (LEM) is a novel technique which involves coupling the solid lattice system and  the fluid lattice system to model the multi-physics problem.
+
+![CB-Geo](cb-geo/banner.png)
