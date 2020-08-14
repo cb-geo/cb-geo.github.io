@@ -148,6 +148,9 @@
 - name: Tianchi Zhao
   role: visitor
   position: Research Associate
-  uni: UC Berkeley
-  image: question.png
+  uni: UC Berkeley && Tongji University
+  image: tianchi.jpeg
   email: 
+    - ztc@berkeley.edu
+    - ztc@tongji.edu.cn
+  area: MPM
