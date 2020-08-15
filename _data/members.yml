@@ -78,6 +78,15 @@
   image: question.png
   email: 
 
+- name: Yong Liang
+  role: researcher
+  position: Postdoctoral Scholar
+  uni: UC Berkeley
+  image: yliang.jpg
+  email: yliang_sn@berkeley.edu
+  area: 
+    - MPM
+
 # PhD Students
 
 - name: Thiago Ordonho Araujo
