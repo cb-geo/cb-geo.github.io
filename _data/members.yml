@@ -54,11 +54,11 @@
 # Researchers
 
 - name: Michael Gardner
-  role: researcher
-  position: Postdoctoral Scholar
-  uni: NHERI SimCenter
+  role: academic
+  position: Assistant Professor
+  uni: University of Nevada, Reno
   image: gardner.jpg
-  email: mhgardner@berkeley.edu
+  email: mhgardner@unr.edu
   area: 
     - DEM   
     - LBM   
