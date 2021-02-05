@@ -54,11 +54,11 @@
 # Researchers
 
 - name: Michael Gardner
-  role: researcher
-  position: Postdoctoral Scholar
-  uni: NHERI SimCenter
+  role: academic
+  position: Assistant Professor
+  uni: University of Nevada, Reno
   image: gardner.jpg
-  email: mhgardner@berkeley.edu
+  email: mhgardner@unr.edu
   area: 
     - DEM   
     - LBM   
@@ -78,6 +78,15 @@
   image: question.png
   email: 
 
+- name: Yong Liang
+  role: researcher
+  position: Postdoctoral Scholar
+  uni: UC Berkeley
+  image: yliang.jpg
+  email: yliang_sn@berkeley.edu
+  area: 
+    - MPM
+
 # PhD Students
 
 - name: Thiago Ordonho Araujo
@@ -94,6 +103,14 @@
   uni: UC Berkeley
   image: nanda.jpg
   email: bchandra@berkeley.edu
+  area: MPM
+
+- name: Joel Given
+  role: student
+  position: PhD candidate
+  uni: UC Berkeley
+  image: given.jpg
+  email: joelgiven@berkeley.edu
   area: MPM
 
 - name: Reihaneh Hosseini
