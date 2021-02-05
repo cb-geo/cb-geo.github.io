@@ -106,14 +106,6 @@
     - DEM    
     - LBM
 
-- name: Ezra Setiasabda
-  role: student
-  position: PhD candidate
-  uni: UC Berkeley
-  image: ezra.jpg
-  email: ezrayst@berkeley.edu
-  area: MPM
-
 - name: Zhenxiang Su
   role: student
   position: PhD candidate
